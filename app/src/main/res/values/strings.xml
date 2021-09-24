@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string name="motivate1">I believe I саn dо anything.</string>
+    <string name="motivate2">I believe in myself.</string>
+    <string name="motivate3">I believe in my dreams</string>
+    <string name="motivate4">I am the architect of my life</string>
+    <string name="motivate5">God is the greatest</string>
+    <string name="motivate6">Good things coming into my life.</string>
+    <string name="motivate7">I See myself getting better each Day</string>
+    <string name="motivate8">Greatness is all i see</string>
+    <string name="motivate9">Blessings myway everyday</string>
+    <string name="motivate10">Treat eachday like a golden oppourtunity</string>
+    <string name="motivate11">Keep striving, Keep believing</string>
+    <string name="motivate12">God in everything i do</string>
+    <string name="motivate13">Greatness abound with determination</string>
+    <string name="motivate14">I know I will make it.</string>
+    <string name="motivate15">Success in all things</string>
+</resources>
